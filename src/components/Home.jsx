@@ -47,7 +47,7 @@ function Home() {
                             </div>
 
                             <div className="hidden lg:block w-[480px] self-center">
-                                <img className="rounded-lg h-96 w-86" src={profile} />
+                                <img className="rounded-lg h-96 w-86" src={"https://www.w3schools.com/howto/img_avatar.png"} />
                             </div>
                         </div>
                     </div>
