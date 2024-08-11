@@ -20,7 +20,7 @@ function Home() {
     };
 
     return (
-        <div className="bg-gray-50 dark:bg-[#101e38] filter brightness-95 dark:filter dark:brightness-105 ">
+        <div className="bg-gray-50 dark:bg-[#1c1a1b] filter brightness-95 dark:filter dark:brightness-105 ">
             <div className="lg:w-[1200px] md:mx-auto h-full border-x border-gray-100 dark:border-gray-800 bg-[#ffffff] dark:bg-[#1c1a1b]">
                 <Toggledark switchTheme={switchTheme} />
 
